@@ -1,11 +1,11 @@
 #if UNITY_ADDRESSABLES
-using CupkekGames.PrefabLoader;
+using CupkekGames.PrefabLoaders;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
-using CupkekGames.KeyValueDatabase;
+using CupkekGames.KeyValueDatabases;
 
 namespace CupkekGames.AddressableAssets
 {

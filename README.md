@@ -13,8 +13,8 @@ Addressables integration: asset loading, prefab loader, Luna UI bindings (UIPref
 ## Dependencies
 
 - `com.cupkekgames.pool` (`AddressableGameObjectPool` extends `GameObjectPoolBase`)
-- `com.cupkekgames.keyvaluedatabase` (PrefabLoader chain)
-- `com.cupkekgames.prefabloader` (`PrefabLoaderAddressable` extends `PrefabLoader`)
+- `com.cupkekgames.keyvaluedatabases` (PrefabLoader chain)
+- `com.cupkekgames.prefabloaders` (`PrefabLoaderAddressable` extends `PrefabLoader`)
 - `com.cupkekgames.luna` (UI bindings)
 - `com.unity.addressables`
 

@@ -29,7 +29,7 @@ com.cupkekgames.addressableassets/
 
 ## Dependencies
 
-- `com.cupkekgames.pool`, `com.cupkekgames.keyvaluedatabase`, `com.cupkekgames.prefabloader` (foundation for `AddressableGameObjectPool` + `PrefabLoaderAddressable`)
+- `com.cupkekgames.pool`, `com.cupkekgames.keyvaluedatabases`, `com.cupkekgames.prefabloaders` (foundation for `AddressableGameObjectPool` + `PrefabLoaderAddressable`)
 - `com.cupkekgames.luna`
 - `com.unity.addressables`
 
