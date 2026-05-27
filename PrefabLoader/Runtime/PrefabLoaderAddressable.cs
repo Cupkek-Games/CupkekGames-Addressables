@@ -35,7 +35,7 @@ namespace CupkekGames.AddressableAssets
     //   }
     // }
 
-    public GameObject Instantiate(TKey key)
+    public virtual GameObject Instantiate(TKey key)
     {
       if (!ContainsKey(key))
       {
